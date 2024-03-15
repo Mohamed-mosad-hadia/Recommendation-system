@@ -20,16 +20,17 @@
 
 
 # Reference 
+1-https://www.youtube.com/watch?v=BthUPVwA59s&list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
 
-1-https://www.youtube.com/watch?v=WlJLGTMGC_A
+2-https://www.youtube.com/watch?v=WlJLGTMGC_A
 
-2-https://www.youtube.com/watch?v=wxQdtPT5-2Q
+3-https://www.youtube.com/watch?v=wxQdtPT5-2Q
 
-3-https://www.youtube.com/watch?v=1nsXxXhscr0&t=1965s
+4-https://www.youtube.com/watch?v=1nsXxXhscr0&t=1965s
 
-4-https://pyimagesearch.com/2023/08/07/linkedin-jobs-recommendation-systems/
+5-https://pyimagesearch.com/2023/08/07/linkedin-jobs-recommendation-systems/
 
-5-https://thecleverprogrammer.com/2022/12/12/job-recommendation-system-using-python/#:~:text=A%20job%20recommender%20system%20is,their%20skills%20and%20desired%20roles 
+6-https://thecleverprogrammer.com/2022/12/12/job-recommendation-system-using-python/#:~:text=A%20job%20recommender%20system%20is,their%20skills%20and%20desired%20roles 
 
 # Connect With Me 
 <div align="center">
