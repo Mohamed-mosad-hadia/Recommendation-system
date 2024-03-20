@@ -32,6 +32,8 @@
 
 6-https://thecleverprogrammer.com/2022/12/12/job-recommendation-system-using-python/#:~:text=A%20job%20recommender%20system%20is,their%20skills%20and%20desired%20roles 
 
+7-https://www.linkedin.com/pulse/building-job-recommendation-strategy-linkedin-xing-part1-uppal/ 
+
 # Connect With Me 
 <div align="center">
  <a href="https://www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
