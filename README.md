@@ -14,7 +14,7 @@
 
 • Note: We employed Context-Based Filtering (CBF) in this work. 
    
-   !pip3 install -U sentence-transformers
+
 
 # Evaluation
 •	Measure the performance of your recommendation system using metrics like precision, recall, or user engagement.
