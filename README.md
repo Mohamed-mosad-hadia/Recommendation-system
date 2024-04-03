@@ -5,7 +5,7 @@
 
 •	Extract relevant features from the collected data. For users, these could include industry, skills, connections, etc. For items, features might include title, description, category, etc.
 
-•
+• !pip3 install -U sentence-transformers
 
 # Recommendation Algorithm
 •	Collaborative Filtering: Recommend items based on user behaviour and preferences by finding similar users/items.
