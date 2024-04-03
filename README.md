@@ -34,6 +34,8 @@
 
 7-https://www.linkedin.com/pulse/building-job-recommendation-strategy-linkedin-xing-part1-uppal/ 
 
+8-https://www.linkedin.com/pulse/recommendation-system-santhiya-r/
+
 # Connect With Me 
 <div align="center">
  <a href="https://www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
